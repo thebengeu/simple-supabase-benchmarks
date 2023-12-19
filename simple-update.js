@@ -7,7 +7,7 @@ export const options = {
   discardResponseBodies: true,
   duration: '3m',
   insecureSkipTLSVerify: true,
-  vus: 500,
+  vus: 100,
 }
 
 export default function () {
